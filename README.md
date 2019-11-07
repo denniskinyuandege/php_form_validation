@@ -18,4 +18,4 @@ Please clone the app, then make sure these errors below are check accordingly.
 9. Password must contain, a special character, a number , a capital letter, and a small letter
 10. Password must be not less than 10 or greater than 15.
 ```
-**Happy Coding.... | :relaxed: |
+**Happy Coding.... :relaxed: :relaxed: :relaxed: :relaxed: :computer: :computer:
